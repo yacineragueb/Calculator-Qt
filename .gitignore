@@ -1,0 +1,24 @@
+# Qt Creator
+*.pro.user
+*.qmake.stash
+*.autosave
+
+# Build directories
+build-*/
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled UI files
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
